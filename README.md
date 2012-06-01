@@ -1,0 +1,4 @@
+huigoo-plugin
+=============
+
+eclipse plugin
